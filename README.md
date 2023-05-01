@@ -1,38 +1,16 @@
-![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+İLKNUR;Welcome+to+my+Github+profile;I'm+a+Frontend+Developer...;)
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="90%" height="300"></br>
-&emsp;&emsp;&emsp;
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilknurtuncer67@gmail.com) &emsp;[![LinkedIn - Ilknur Duramater](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilknur-d-ab857b22b/)&emsp;
+# 💫 About Me:
+🔭 I’m currently working on becoming a Full-stack Developer<br>🌱 I’m currently learning Django<br>💬 Ask me about React.js, JS, HTML, CSS, Python, Jira, Django<br>📫 How to reach me nurettin@clarusway.com
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<h2 align="center">:rocket:Technical Skills</h2>
-<div>
-    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/html_aladdinGene.png" width="60" alt="html" />
-    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/css_aladdinGene.png" width="60" alt="css" />
-    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/javascript_aladdinGene.gif" width="60" alt="javascript" />
-    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/ts_aladdinGene.gif" width="60" alt="typescript" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="60" alt="jquery" />
-    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/react_aladdinGene.gif" width="60" alt="react" /> 
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="60" alt="redux" />
-    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/bootstrap_aladdinGene.png" width="60" alt="bootstrap" /> 
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="60" alt="sass" />
-    <img src="https://styled-components.com/logo.png" width="60" alt="styledcomponent" /
-    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/python_aladdinGene.gif" width="60" alt="python" />
-    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/django_aladdinGene.png" width="60" alt="django" /> 
-    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/firebase_aladdinGene.webp" width="60" alt="firebase" />
-    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/git_aladdinGene.gif" width="60" alt="git" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="60" alt="figma" />
-    <img src="https://wac-cdn.atlassian.com/dam/jcr:e348b562-4152-4cdc-8a55-3d297e509cc8/Jira%20Software-blue.svg?cdnVersion=578" width="200" alt="jira" />
-</div>
-</div>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</br>
-<div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>
-<br>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/n-akin-oral/) 
 
-<h2 align="center"> My projects</h2>
-
-###
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=NAkin-Oral&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NAkin-Oral&theme=blueberry&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NAkin-Oral&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
